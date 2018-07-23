@@ -3,7 +3,7 @@ package com.org.ds.Ll;
 
 public class LL {
     
-    private Node head;
+    public Node head;
     
     static class Node{
         private int data;
