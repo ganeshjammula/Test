@@ -2,9 +2,10 @@ package com.org.ds.Ll;
 
 
 public class LL {
-    Node head;
-    int size;
+   public Node head;
+   public int size;
 
+    //test stash
     public Node getHead() {
         return head;
     }
